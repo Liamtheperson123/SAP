@@ -4,7 +4,7 @@
 Super Awesome Packages!
 
 ## Install
-Download and run installer.
+Download and run [installer](https://github.com/Liamtheperson123/SAP/releases/tag/Installer).
 
 ## Usage
 Open a terminal window, and type "sap install [package name]" Example; "sap install vlc"
