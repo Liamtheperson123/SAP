@@ -12,12 +12,16 @@ If not, you can attempt manually setting up the python files, and setting the "P
 
 ## Usage
 Open a Terminal or PowerShell window, and type "sap install [package name]" Example; "sap install vlc"
+
+
 Same for uninstalls; "sap uninstall vlc"
 
 A basic help menu can be accessed via "sap -h"
 
 ## Why?
 SAP's purpose is to both, cut the web browser out of downloading software on windows, and increase efficency.
+
+
 Downloading software through a terminal without having to navigate a web browsers interface is multitudes faster, and more satisfying.
 
 # Updates
