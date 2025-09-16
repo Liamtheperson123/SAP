@@ -22,4 +22,6 @@ Downloading software through a terminal without having to navigate a web browser
 
 # Updates
 Updates to SAP itself will be infrequent, but repository package updates will be as frequent as possible.
+
+
 *Package repository updates require no local downloads.*
