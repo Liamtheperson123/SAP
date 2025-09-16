@@ -31,6 +31,6 @@ Updates to SAP itself will be infrequent, but repository package updates will be
 *Package repository updates require no local downloads.*
 
 
-### Extra
+## Extra
 
 Programmed with [Python](https://www.python.org/), installer created with [Inno](https://jrsoftware.org/isinfo.php)
