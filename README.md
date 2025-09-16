@@ -34,3 +34,5 @@ Updates to SAP itself will be infrequent, but repository package updates will be
 ## Extra
 
 Programmed with [Python](https://www.python.org/), installer created with [Inno](https://jrsoftware.org/isinfo.php)
+
+Find package repo [here](https://gitlab.com/PPPPPPPPPPPPPPotato/sap/-/blob/main/Packages.json)
