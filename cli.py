@@ -6,7 +6,7 @@ import urllib.request
 import ctypes
 import json
 
-PACKAGE_JSON_URL = "https://gitlab.com/PPPPPPPPPPPPPPotato/sap/-/raw/main/Packages.json?ref_type=heads"
+PACKAGE_JSON_URL = "https://gitlab.com/PPPPPPPPPPPPPPotato/sap/-/raw/main/Packages.json"
 
 def load_packages():
     """Fetch the latest package list from GitHub JSON."""
@@ -139,3 +139,4 @@ if __name__ == "__main__":
     main()
 
 # Liam
+
