@@ -30,6 +30,8 @@ Updates to SAP itself will be infrequent, but repository package updates will be
 
 *Package repository updates require no local downloads.*
 
+## Linux?
+No support yet. Probobly never, you have package installers already you greedy freaks.
 
 ## Extra
 
