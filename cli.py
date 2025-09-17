@@ -6,7 +6,6 @@ import urllib.request
 import ctypes
 import json
 
-# GitHub raw JSON URL containing your package list
 PACKAGE_JSON_URL = "https://gitlab.com/PPPPPPPPPPPPPPotato/sap/-/raw/main/Packages.json?ref_type=heads"
 
 def load_packages():
@@ -138,3 +137,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
