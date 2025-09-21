@@ -42,4 +42,4 @@ Find package repo [here](https://gitlab.com/PPPPPPPPPPPPPPotato/sap/-/blob/main/
 *- Liam | FSFE*
 
 
-![example image](/Ex.png)
+![example image](/Example.png)
