@@ -17,6 +17,7 @@ Open a Terminal or PowerShell window, and type "sap install [package name]" Exam
 Same for uninstalls; "sap uninstall vlc"
 
 A basic help menu can be accessed via "sap -h"
+![example image](/Example.png)
 
 ## Why?
 SAP's purpose is to both, cut the web browser out of downloading software on windows, and increase efficency.
@@ -41,5 +42,3 @@ Find package repo [here](https://gitlab.com/PPPPPPPPPPPPPPotato/sap/-/blob/main/
 
 *- Liam | FSFE*
 
-
-![example image](/Example.png)
